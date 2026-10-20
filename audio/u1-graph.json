@@ -1,0 +1,288 @@
+{
+ "id": "u1-graph",
+ "duration": 341.48,
+ "lines": [
+  {
+   "id": "L1",
+   "speaker": "Josh",
+   "start": 0.6,
+   "end": 6.39
+  },
+  {
+   "id": "L2",
+   "speaker": "Mei",
+   "start": 6.81,
+   "end": 16.47
+  },
+  {
+   "id": "L3",
+   "speaker": "Sofia",
+   "start": 16.89,
+   "end": 21.23
+  },
+  {
+   "id": "L4",
+   "speaker": "Josh",
+   "start": 21.85,
+   "end": 28.84
+  },
+  {
+   "id": "L5",
+   "speaker": "Mei",
+   "start": 29.14,
+   "end": 30.1
+  },
+  {
+   "id": "L6",
+   "speaker": "Josh",
+   "start": 30.4,
+   "end": 41.63
+  },
+  {
+   "id": "L7",
+   "speaker": "Sofia",
+   "start": 42.05,
+   "end": 44.47
+  },
+  {
+   "id": "L8",
+   "speaker": "Josh",
+   "start": 45.09,
+   "end": 54.67
+  },
+  {
+   "id": "L9",
+   "speaker": "Mei",
+   "start": 55.09,
+   "end": 57.89
+  },
+  {
+   "id": "L10",
+   "speaker": "Josh",
+   "start": 58.51,
+   "end": 66.08
+  },
+  {
+   "id": "L11",
+   "speaker": "Mei",
+   "start": 66.38,
+   "end": 67.29
+  },
+  {
+   "id": "L12",
+   "speaker": "Josh",
+   "start": 67.59,
+   "end": 79.91
+  },
+  {
+   "id": "L13",
+   "speaker": "Mei",
+   "start": 80.53,
+   "end": 87.13
+  },
+  {
+   "id": "L14",
+   "speaker": "Josh",
+   "start": 87.55,
+   "end": 97.68
+  },
+  {
+   "id": "L15",
+   "speaker": "Sofia",
+   "start": 98.1,
+   "end": 100.52
+  },
+  {
+   "id": "L16",
+   "speaker": "Mei",
+   "start": 100.94,
+   "end": 107.69
+  },
+  {
+   "id": "L17",
+   "speaker": "Josh",
+   "start": 108.31,
+   "end": 115.67
+  },
+  {
+   "id": "L18",
+   "speaker": "Mei",
+   "start": 115.97,
+   "end": 116.58
+  },
+  {
+   "id": "L19",
+   "speaker": "Josh",
+   "start": 116.88,
+   "end": 123.1
+  },
+  {
+   "id": "L20",
+   "speaker": "Mei",
+   "start": 123.52,
+   "end": 139.81
+  },
+  {
+   "id": "L21",
+   "speaker": "Josh",
+   "start": 140.43,
+   "end": 150.06
+  },
+  {
+   "id": "L22",
+   "speaker": "Sofia",
+   "start": 150.48,
+   "end": 157.67
+  },
+  {
+   "id": "L23",
+   "speaker": "Josh",
+   "start": 158.09,
+   "end": 165.11
+  },
+  {
+   "id": "L24",
+   "speaker": "Sofia",
+   "start": 165.73,
+   "end": 172.91
+  },
+  {
+   "id": "L25",
+   "speaker": "Mei",
+   "start": 173.21,
+   "end": 174.72
+  },
+  {
+   "id": "L26",
+   "speaker": "Sofia",
+   "start": 175.02,
+   "end": 191.11
+  },
+  {
+   "id": "L27",
+   "speaker": "Mei",
+   "start": 191.53,
+   "end": 193.28
+  },
+  {
+   "id": "L28",
+   "speaker": "Sofia",
+   "start": 193.7,
+   "end": 196.78
+  },
+  {
+   "id": "L29",
+   "speaker": "Mei",
+   "start": 197.4,
+   "end": 202.98
+  },
+  {
+   "id": "L30",
+   "speaker": "Sofia",
+   "start": 203.4,
+   "end": 207.65
+  },
+  {
+   "id": "L31",
+   "speaker": "Josh",
+   "start": 208.07,
+   "end": 218.23
+  },
+  {
+   "id": "L32",
+   "speaker": "Sofia",
+   "start": 218.65,
+   "end": 226.71
+  },
+  {
+   "id": "L33",
+   "speaker": "Josh",
+   "start": 227.13,
+   "end": 234.68
+  },
+  {
+   "id": "L34",
+   "speaker": "Mei",
+   "start": 235.1,
+   "end": 239.44
+  },
+  {
+   "id": "L35",
+   "speaker": "Josh",
+   "start": 240.06,
+   "end": 249.45
+  },
+  {
+   "id": "L36",
+   "speaker": "Mei",
+   "start": 250.07,
+   "end": 266.07
+  },
+  {
+   "id": "L37",
+   "speaker": "Sofia",
+   "start": 266.69,
+   "end": 270.93
+  },
+  {
+   "id": "L38",
+   "speaker": "Mei",
+   "start": 271.35,
+   "end": 279.09
+  },
+  {
+   "id": "L39",
+   "speaker": "Josh",
+   "start": 279.51,
+   "end": 282.33
+  },
+  {
+   "id": "L40",
+   "speaker": "Mei",
+   "start": 282.75,
+   "end": 297.79
+  },
+  {
+   "id": "L41",
+   "speaker": "Sofia",
+   "start": 298.09,
+   "end": 298.84
+  },
+  {
+   "id": "L42",
+   "speaker": "Josh",
+   "start": 299.14,
+   "end": 308.39
+  },
+  {
+   "id": "L43",
+   "speaker": "Mei",
+   "start": 308.81,
+   "end": 310.61
+  },
+  {
+   "id": "L44",
+   "speaker": "Josh",
+   "start": 311.23,
+   "end": 325.21
+  },
+  {
+   "id": "L45",
+   "speaker": "Mei",
+   "start": 325.83,
+   "end": 332.32
+  },
+  {
+   "id": "L46",
+   "speaker": "Josh",
+   "start": 332.74,
+   "end": 336.73
+  },
+  {
+   "id": "L47",
+   "speaker": "Sofia",
+   "start": 337.15,
+   "end": 340.68
+  }
+ ]
+}

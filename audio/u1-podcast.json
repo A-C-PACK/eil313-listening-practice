@@ -1,0 +1,204 @@
+{
+ "id": "u1-podcast",
+ "duration": 358.43,
+ "lines": [
+  {
+   "id": "L1",
+   "speaker": "Maya",
+   "start": 3.5,
+   "end": 16.25
+  },
+  {
+   "id": "L2",
+   "speaker": "Dr. Helen Ward",
+   "start": 16.67,
+   "end": 31.75
+  },
+  {
+   "id": "L3",
+   "speaker": "Maya",
+   "start": 32.05,
+   "end": 34.09
+  },
+  {
+   "id": "L4",
+   "speaker": "Dr. Helen Ward",
+   "start": 34.39,
+   "end": 37.31
+  },
+  {
+   "id": "L5",
+   "speaker": "Maya",
+   "start": 37.73,
+   "end": 54.39
+  },
+  {
+   "id": "L6",
+   "speaker": "Dr. Helen Ward",
+   "start": 54.81,
+   "end": 71.21
+  },
+  {
+   "id": "L7",
+   "speaker": "Maya",
+   "start": 71.63,
+   "end": 81.02
+  },
+  {
+   "id": "L8",
+   "speaker": "Dr. Helen Ward",
+   "start": 81.44,
+   "end": 101.59
+  },
+  {
+   "id": "L9",
+   "speaker": "Maya",
+   "start": 102.01,
+   "end": 105.76
+  },
+  {
+   "id": "L10",
+   "speaker": "Dr. Helen Ward",
+   "start": 106.18,
+   "end": 131.61
+  },
+  {
+   "id": "L11",
+   "speaker": "Maya",
+   "start": 132.03,
+   "end": 136.59
+  },
+  {
+   "id": "L12",
+   "speaker": "Dr. Helen Ward",
+   "start": 137.01,
+   "end": 143.01
+  },
+  {
+   "id": "L13",
+   "speaker": "Maya",
+   "start": 143.43,
+   "end": 152.15
+  },
+  {
+   "id": "L14",
+   "speaker": "Dr. Helen Ward",
+   "start": 152.57,
+   "end": 174.31
+  },
+  {
+   "id": "L15",
+   "speaker": "Maya",
+   "start": 174.61,
+   "end": 176.71
+  },
+  {
+   "id": "L16",
+   "speaker": "Dr. Helen Ward",
+   "start": 177.01,
+   "end": 196.3
+  },
+  {
+   "id": "L17",
+   "speaker": "Maya",
+   "start": 196.72,
+   "end": 199.51
+  },
+  {
+   "id": "L18",
+   "speaker": "Dr. Helen Ward",
+   "start": 199.93,
+   "end": 204.04
+  },
+  {
+   "id": "L19",
+   "speaker": "Maya",
+   "start": 204.46,
+   "end": 206.75
+  },
+  {
+   "id": "L20",
+   "speaker": "Dr. Helen Ward",
+   "start": 207.37,
+   "end": 223.71
+  },
+  {
+   "id": "L21",
+   "speaker": "Maya",
+   "start": 224.13,
+   "end": 227.09
+  },
+  {
+   "id": "L22",
+   "speaker": "Dr. Helen Ward",
+   "start": 227.51,
+   "end": 240.54
+  },
+  {
+   "id": "L23",
+   "speaker": "Maya",
+   "start": 240.96,
+   "end": 244.5
+  },
+  {
+   "id": "L24",
+   "speaker": "Dr. Helen Ward",
+   "start": 244.8,
+   "end": 245.63
+  },
+  {
+   "id": "L25",
+   "speaker": "Maya",
+   "start": 245.93,
+   "end": 254.27
+  },
+  {
+   "id": "L26",
+   "speaker": "Dr. Helen Ward",
+   "start": 254.69,
+   "end": 280.51
+  },
+  {
+   "id": "L27",
+   "speaker": "Maya",
+   "start": 280.93,
+   "end": 288.06
+  },
+  {
+   "id": "L28",
+   "speaker": "Dr. Helen Ward",
+   "start": 288.48,
+   "end": 310.37
+  },
+  {
+   "id": "L29",
+   "speaker": "Maya",
+   "start": 310.79,
+   "end": 324.59
+  },
+  {
+   "id": "L30",
+   "speaker": "Dr. Helen Ward",
+   "start": 325.01,
+   "end": 327.09
+  },
+  {
+   "id": "L31",
+   "speaker": "Maya",
+   "start": 327.71,
+   "end": 338.61
+  },
+  {
+   "id": "L32",
+   "speaker": "Dr. Helen Ward",
+   "start": 339.03,
+   "end": 344.05
+  },
+  {
+   "id": "L33",
+   "speaker": "Maya",
+   "start": 344.47,
+   "end": 352.43
+  }
+ ]
+}

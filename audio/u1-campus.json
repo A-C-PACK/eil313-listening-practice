@@ -1,0 +1,300 @@
+{
+ "id": "u1-campus",
+ "duration": 339.99,
+ "lines": [
+  {
+   "id": "L1",
+   "speaker": "Mr. Tanaka",
+   "start": 0.6,
+   "end": 9.36
+  },
+  {
+   "id": "L2",
+   "speaker": "Sofia",
+   "start": 9.78,
+   "end": 15.99
+  },
+  {
+   "id": "L3",
+   "speaker": "Mei",
+   "start": 16.41,
+   "end": 21.15
+  },
+  {
+   "id": "L4",
+   "speaker": "Mr. Tanaka",
+   "start": 21.57,
+   "end": 27.23
+  },
+  {
+   "id": "L5",
+   "speaker": "Mei",
+   "start": 27.65,
+   "end": 37.95
+  },
+  {
+   "id": "L6",
+   "speaker": "Mr. Tanaka",
+   "start": 38.25,
+   "end": 39.03
+  },
+  {
+   "id": "L7",
+   "speaker": "Sofia",
+   "start": 39.33,
+   "end": 50.43
+  },
+  {
+   "id": "L8",
+   "speaker": "Mei",
+   "start": 50.85,
+   "end": 54.33
+  },
+  {
+   "id": "L9",
+   "speaker": "Mr. Tanaka",
+   "start": 54.75,
+   "end": 57.77
+  },
+  {
+   "id": "L10",
+   "speaker": "Sofia",
+   "start": 58.19,
+   "end": 61.36
+  },
+  {
+   "id": "L11",
+   "speaker": "Mr. Tanaka",
+   "start": 61.78,
+   "end": 66.64
+  },
+  {
+   "id": "L12",
+   "speaker": "Sofia",
+   "start": 67.06,
+   "end": 85.13
+  },
+  {
+   "id": "L13",
+   "speaker": "Mei",
+   "start": 85.75,
+   "end": 90.54
+  },
+  {
+   "id": "L14",
+   "speaker": "Sofia",
+   "start": 90.96,
+   "end": 93.4
+  },
+  {
+   "id": "L15",
+   "speaker": "Mei",
+   "start": 93.82,
+   "end": 98.07
+  },
+  {
+   "id": "L16",
+   "speaker": "Mr. Tanaka",
+   "start": 98.49,
+   "end": 106.02
+  },
+  {
+   "id": "L17",
+   "speaker": "Mei",
+   "start": 106.64,
+   "end": 118.18
+  },
+  {
+   "id": "L18",
+   "speaker": "Mr. Tanaka",
+   "start": 118.8,
+   "end": 124.38
+  },
+  {
+   "id": "L19",
+   "speaker": "Mei",
+   "start": 124.68,
+   "end": 126.04
+  },
+  {
+   "id": "L20",
+   "speaker": "Mr. Tanaka",
+   "start": 126.34,
+   "end": 129.47
+  },
+  {
+   "id": "L21",
+   "speaker": "Sofia",
+   "start": 129.89,
+   "end": 143.71
+  },
+  {
+   "id": "L22",
+   "speaker": "Mr. Tanaka",
+   "start": 144.33,
+   "end": 151.89
+  },
+  {
+   "id": "L23",
+   "speaker": "Mei",
+   "start": 152.31,
+   "end": 154.39
+  },
+  {
+   "id": "L24",
+   "speaker": "Sofia",
+   "start": 155.01,
+   "end": 165.67
+  },
+  {
+   "id": "L25",
+   "speaker": "Mr. Tanaka",
+   "start": 166.09,
+   "end": 173.32
+  },
+  {
+   "id": "L26",
+   "speaker": "Mei",
+   "start": 173.74,
+   "end": 184.12
+  },
+  {
+   "id": "L27",
+   "speaker": "Sofia",
+   "start": 184.54,
+   "end": 187.29
+  },
+  {
+   "id": "L28",
+   "speaker": "Mei",
+   "start": 187.71,
+   "end": 197.94
+  },
+  {
+   "id": "L29",
+   "speaker": "Mr. Tanaka",
+   "start": 198.36,
+   "end": 202.39
+  },
+  {
+   "id": "L30",
+   "speaker": "Mei",
+   "start": 202.81,
+   "end": 210.2
+  },
+  {
+   "id": "L31",
+   "speaker": "Sofia",
+   "start": 210.62,
+   "end": 223.85
+  },
+  {
+   "id": "L32",
+   "speaker": "Mei",
+   "start": 224.27,
+   "end": 232.6
+  },
+  {
+   "id": "L33",
+   "speaker": "Sofia",
+   "start": 233.02,
+   "end": 239.19
+  },
+  {
+   "id": "L34",
+   "speaker": "Mr. Tanaka",
+   "start": 239.61,
+   "end": 247.61
+  },
+  {
+   "id": "L35",
+   "speaker": "Mei",
+   "start": 247.91,
+   "end": 249.18
+  },
+  {
+   "id": "L36",
+   "speaker": "Mr. Tanaka",
+   "start": 249.48,
+   "end": 258.23
+  },
+  {
+   "id": "L37",
+   "speaker": "Sofia",
+   "start": 258.65,
+   "end": 262.11
+  },
+  {
+   "id": "L38",
+   "speaker": "Mr. Tanaka",
+   "start": 262.53,
+   "end": 275.6
+  },
+  {
+   "id": "L39",
+   "speaker": "Mei",
+   "start": 276.02,
+   "end": 287.81
+  },
+  {
+   "id": "L40",
+   "speaker": "Sofia",
+   "start": 288.23,
+   "end": 290.63
+  },
+  {
+   "id": "L41",
+   "speaker": "Mr. Tanaka",
+   "start": 291.25,
+   "end": 305.55
+  },
+  {
+   "id": "L42",
+   "speaker": "Sofia",
+   "start": 305.85,
+   "end": 306.31
+  },
+  {
+   "id": "L43",
+   "speaker": "Mei",
+   "start": 306.61,
+   "end": 311.15
+  },
+  {
+   "id": "L44",
+   "speaker": "Mr. Tanaka",
+   "start": 311.57,
+   "end": 314.89
+  },
+  {
+   "id": "L45",
+   "speaker": "Sofia",
+   "start": 315.31,
+   "end": 318.01
+  },
+  {
+   "id": "L46",
+   "speaker": "Mei",
+   "start": 318.43,
+   "end": 327.09
+  },
+  {
+   "id": "L47",
+   "speaker": "Sofia",
+   "start": 327.51,
+   "end": 330.6
+  },
+  {
+   "id": "L48",
+   "speaker": "Mei",
+   "start": 331.02,
+   "end": 332.52
+  },
+  {
+   "id": "L49",
+   "speaker": "Mr. Tanaka",
+   "start": 332.94,
+   "end": 339.19
+  }
+ ]
+}

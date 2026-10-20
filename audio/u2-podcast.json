@@ -1,0 +1,192 @@
+{
+ "id": "u2-podcast",
+ "duration": 344.31,
+ "lines": [
+  {
+   "id": "L1",
+   "speaker": "Maya",
+   "start": 3.5,
+   "end": 13.18
+  },
+  {
+   "id": "L2",
+   "speaker": "Dr. Robert Hale",
+   "start": 13.6,
+   "end": 19.55
+  },
+  {
+   "id": "L3",
+   "speaker": "Maya",
+   "start": 19.98,
+   "end": 28.18
+  },
+  {
+   "id": "L4",
+   "speaker": "Dr. Robert Hale",
+   "start": 28.8,
+   "end": 46.29
+  },
+  {
+   "id": "L5",
+   "speaker": "Maya",
+   "start": 46.71,
+   "end": 49.88
+  },
+  {
+   "id": "L6",
+   "speaker": "Dr. Robert Hale",
+   "start": 50.5,
+   "end": 61.06
+  },
+  {
+   "id": "L7",
+   "speaker": "Maya",
+   "start": 61.48,
+   "end": 76.79
+  },
+  {
+   "id": "L8",
+   "speaker": "Dr. Robert Hale",
+   "start": 77.09,
+   "end": 77.94
+  },
+  {
+   "id": "L9",
+   "speaker": "Maya",
+   "start": 78.24,
+   "end": 85.23
+  },
+  {
+   "id": "L10",
+   "speaker": "Dr. Robert Hale",
+   "start": 85.65,
+   "end": 92.6
+  },
+  {
+   "id": "L11",
+   "speaker": "Maya",
+   "start": 93.02,
+   "end": 103.04
+  },
+  {
+   "id": "L12",
+   "speaker": "Dr. Robert Hale",
+   "start": 103.46,
+   "end": 128.92
+  },
+  {
+   "id": "L13",
+   "speaker": "Maya",
+   "start": 129.34,
+   "end": 131.65
+  },
+  {
+   "id": "L14",
+   "speaker": "Dr. Robert Hale",
+   "start": 132.07,
+   "end": 135.93
+  },
+  {
+   "id": "L15",
+   "speaker": "Maya",
+   "start": 136.35,
+   "end": 140.22
+  },
+  {
+   "id": "L16",
+   "speaker": "Dr. Robert Hale",
+   "start": 140.84,
+   "end": 154.36
+  },
+  {
+   "id": "L17",
+   "speaker": "Maya",
+   "start": 154.78,
+   "end": 159.19
+  },
+  {
+   "id": "L18",
+   "speaker": "Dr. Robert Hale",
+   "start": 159.61,
+   "end": 171.09
+  },
+  {
+   "id": "L19",
+   "speaker": "Maya",
+   "start": 171.51,
+   "end": 174.9
+  },
+  {
+   "id": "L20",
+   "speaker": "Dr. Robert Hale",
+   "start": 175.32,
+   "end": 195.51
+  },
+  {
+   "id": "L21",
+   "speaker": "Maya",
+   "start": 195.93,
+   "end": 204.89
+  },
+  {
+   "id": "L22",
+   "speaker": "Dr. Robert Hale",
+   "start": 205.51,
+   "end": 220.68
+  },
+  {
+   "id": "L23",
+   "speaker": "Maya",
+   "start": 221.1,
+   "end": 224.62
+  },
+  {
+   "id": "L24",
+   "speaker": "Dr. Robert Hale",
+   "start": 225.24,
+   "end": 256.9
+  },
+  {
+   "id": "L25",
+   "speaker": "Maya",
+   "start": 257.32,
+   "end": 259.63
+  },
+  {
+   "id": "L26",
+   "speaker": "Dr. Robert Hale",
+   "start": 260.05,
+   "end": 283.63
+  },
+  {
+   "id": "L27",
+   "speaker": "Maya",
+   "start": 284.05,
+   "end": 291.41
+  },
+  {
+   "id": "L28",
+   "speaker": "Dr. Robert Hale",
+   "start": 292.03,
+   "end": 308.66
+  },
+  {
+   "id": "L29",
+   "speaker": "Maya",
+   "start": 309.08,
+   "end": 317.48
+  },
+  {
+   "id": "L30",
+   "speaker": "Dr. Robert Hale",
+   "start": 317.9,
+   "end": 321.69
+  },
+  {
+   "id": "L31",
+   "speaker": "Maya",
+   "start": 322.11,
+   "end": 338.31
+  }
+ ]
+}

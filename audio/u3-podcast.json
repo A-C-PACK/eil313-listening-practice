@@ -1,0 +1,216 @@
+{
+ "id": "u3-podcast",
+ "duration": 355.41,
+ "lines": [
+  {
+   "id": "L1",
+   "speaker": "Maya",
+   "start": 3.5,
+   "end": 14.97
+  },
+  {
+   "id": "L2",
+   "speaker": "Dr. Grace Adeyemi",
+   "start": 15.39,
+   "end": 26.37
+  },
+  {
+   "id": "L3",
+   "speaker": "Maya",
+   "start": 26.79,
+   "end": 41.08
+  },
+  {
+   "id": "L4",
+   "speaker": "Dr. Grace Adeyemi",
+   "start": 41.5,
+   "end": 53.03
+  },
+  {
+   "id": "L5",
+   "speaker": "Maya",
+   "start": 53.45,
+   "end": 56.18
+  },
+  {
+   "id": "L6",
+   "speaker": "Dr. Grace Adeyemi",
+   "start": 56.6,
+   "end": 67.88
+  },
+  {
+   "id": "L7",
+   "speaker": "Maya",
+   "start": 68.3,
+   "end": 73.31
+  },
+  {
+   "id": "L8",
+   "speaker": "Dr. Grace Adeyemi",
+   "start": 73.73,
+   "end": 89.36
+  },
+  {
+   "id": "L9",
+   "speaker": "Maya",
+   "start": 89.78,
+   "end": 96.29
+  },
+  {
+   "id": "L10",
+   "speaker": "Dr. Grace Adeyemi",
+   "start": 96.71,
+   "end": 113.56
+  },
+  {
+   "id": "L11",
+   "speaker": "Maya",
+   "start": 113.98,
+   "end": 121.38
+  },
+  {
+   "id": "L12",
+   "speaker": "Dr. Grace Adeyemi",
+   "start": 121.8,
+   "end": 132.12
+  },
+  {
+   "id": "L13",
+   "speaker": "Maya",
+   "start": 132.54,
+   "end": 134.49
+  },
+  {
+   "id": "L14",
+   "speaker": "Dr. Grace Adeyemi",
+   "start": 135.11,
+   "end": 153.32
+  },
+  {
+   "id": "L15",
+   "speaker": "Maya",
+   "start": 153.74,
+   "end": 160.69
+  },
+  {
+   "id": "L16",
+   "speaker": "Dr. Grace Adeyemi",
+   "start": 161.11,
+   "end": 184.35
+  },
+  {
+   "id": "L17",
+   "speaker": "Maya",
+   "start": 184.77,
+   "end": 187.04
+  },
+  {
+   "id": "L18",
+   "speaker": "Dr. Grace Adeyemi",
+   "start": 187.46,
+   "end": 201.76
+  },
+  {
+   "id": "L19",
+   "speaker": "Maya",
+   "start": 202.18,
+   "end": 204.84
+  },
+  {
+   "id": "L20",
+   "speaker": "Dr. Grace Adeyemi",
+   "start": 205.26,
+   "end": 208.24
+  },
+  {
+   "id": "L21",
+   "speaker": "Maya",
+   "start": 208.66,
+   "end": 213.72
+  },
+  {
+   "id": "L22",
+   "speaker": "Dr. Grace Adeyemi",
+   "start": 214.34,
+   "end": 225.31
+  },
+  {
+   "id": "L23",
+   "speaker": "Maya",
+   "start": 225.73,
+   "end": 231.44
+  },
+  {
+   "id": "L24",
+   "speaker": "Dr. Grace Adeyemi",
+   "start": 231.86,
+   "end": 251.35
+  },
+  {
+   "id": "L25",
+   "speaker": "Maya",
+   "start": 251.65,
+   "end": 252.55
+  },
+  {
+   "id": "L26",
+   "speaker": "Dr. Grace Adeyemi",
+   "start": 252.85,
+   "end": 265.52
+  },
+  {
+   "id": "L27",
+   "speaker": "Maya",
+   "start": 265.94,
+   "end": 274.31
+  },
+  {
+   "id": "L28",
+   "speaker": "Dr. Grace Adeyemi",
+   "start": 274.73,
+   "end": 291.13
+  },
+  {
+   "id": "L29",
+   "speaker": "Maya",
+   "start": 291.55,
+   "end": 299.38
+  },
+  {
+   "id": "L30",
+   "speaker": "Dr. Grace Adeyemi",
+   "start": 299.8,
+   "end": 310.56
+  },
+  {
+   "id": "L31",
+   "speaker": "Maya",
+   "start": 310.98,
+   "end": 313.68
+  },
+  {
+   "id": "L32",
+   "speaker": "Dr. Grace Adeyemi",
+   "start": 314.3,
+   "end": 329.86
+  },
+  {
+   "id": "L33",
+   "speaker": "Maya",
+   "start": 330.28,
+   "end": 338.72
+  },
+  {
+   "id": "L34",
+   "speaker": "Dr. Grace Adeyemi",
+   "start": 339.14,
+   "end": 343.78
+  },
+  {
+   "id": "L35",
+   "speaker": "Maya",
+   "start": 344.2,
+   "end": 349.41
+  }
+ ]
+}

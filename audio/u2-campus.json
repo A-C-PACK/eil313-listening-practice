@@ -1,0 +1,300 @@
+{
+ "id": "u2-campus",
+ "duration": 347.74,
+ "lines": [
+  {
+   "id": "L1",
+   "speaker": "Mei",
+   "start": 0.6,
+   "end": 5.23
+  },
+  {
+   "id": "L2",
+   "speaker": "Josh",
+   "start": 5.65,
+   "end": 10.82
+  },
+  {
+   "id": "L3",
+   "speaker": "Mei",
+   "start": 11.24,
+   "end": 13.8
+  },
+  {
+   "id": "L4",
+   "speaker": "Josh",
+   "start": 14.22,
+   "end": 25.34
+  },
+  {
+   "id": "L5",
+   "speaker": "Mei",
+   "start": 25.76,
+   "end": 32.71
+  },
+  {
+   "id": "L6",
+   "speaker": "Josh",
+   "start": 33.13,
+   "end": 36.1
+  },
+  {
+   "id": "L7",
+   "speaker": "Mei",
+   "start": 36.52,
+   "end": 45.41
+  },
+  {
+   "id": "L8",
+   "speaker": "Ms. Okafor",
+   "start": 45.83,
+   "end": 48.49
+  },
+  {
+   "id": "L9",
+   "speaker": "Josh",
+   "start": 48.91,
+   "end": 58.34
+  },
+  {
+   "id": "L10",
+   "speaker": "Ms. Okafor",
+   "start": 58.96,
+   "end": 64.74
+  },
+  {
+   "id": "L11",
+   "speaker": "Josh",
+   "start": 65.16,
+   "end": 70.67
+  },
+  {
+   "id": "L12",
+   "speaker": "Ms. Okafor",
+   "start": 71.09,
+   "end": 76.92
+  },
+  {
+   "id": "L13",
+   "speaker": "Josh",
+   "start": 77.34,
+   "end": 88.63
+  },
+  {
+   "id": "L14",
+   "speaker": "Ms. Okafor",
+   "start": 89.05,
+   "end": 94.07
+  },
+  {
+   "id": "L15",
+   "speaker": "Josh",
+   "start": 94.49,
+   "end": 96.81
+  },
+  {
+   "id": "L16",
+   "speaker": "Ms. Okafor",
+   "start": 97.23,
+   "end": 109.24
+  },
+  {
+   "id": "L17",
+   "speaker": "Josh",
+   "start": 109.66,
+   "end": 111.96
+  },
+  {
+   "id": "L18",
+   "speaker": "Ms. Okafor",
+   "start": 112.38,
+   "end": 126.15
+  },
+  {
+   "id": "L19",
+   "speaker": "Josh",
+   "start": 126.57,
+   "end": 129.54
+  },
+  {
+   "id": "L20",
+   "speaker": "Mei",
+   "start": 129.96,
+   "end": 132.65
+  },
+  {
+   "id": "L21",
+   "speaker": "Ms. Okafor",
+   "start": 133.07,
+   "end": 135.03
+  },
+  {
+   "id": "L22",
+   "speaker": "Mei",
+   "start": 135.65,
+   "end": 147.16
+  },
+  {
+   "id": "L23",
+   "speaker": "Josh",
+   "start": 147.46,
+   "end": 148.72
+  },
+  {
+   "id": "L24",
+   "speaker": "Mei",
+   "start": 149.02,
+   "end": 156.15
+  },
+  {
+   "id": "L25",
+   "speaker": "Ms. Okafor",
+   "start": 156.57,
+   "end": 178.56
+  },
+  {
+   "id": "L26",
+   "speaker": "Josh",
+   "start": 178.98,
+   "end": 181.21
+  },
+  {
+   "id": "L27",
+   "speaker": "Ms. Okafor",
+   "start": 181.63,
+   "end": 184.72
+  },
+  {
+   "id": "L28",
+   "speaker": "Mei",
+   "start": 185.34,
+   "end": 196.82
+  },
+  {
+   "id": "L29",
+   "speaker": "Ms. Okafor",
+   "start": 197.24,
+   "end": 208.9
+  },
+  {
+   "id": "L30",
+   "speaker": "Josh",
+   "start": 209.32,
+   "end": 211.52
+  },
+  {
+   "id": "L31",
+   "speaker": "Ms. Okafor",
+   "start": 211.94,
+   "end": 213.68
+  },
+  {
+   "id": "L32",
+   "speaker": "Josh",
+   "start": 214.1,
+   "end": 220.41
+  },
+  {
+   "id": "L33",
+   "speaker": "Mei",
+   "start": 220.83,
+   "end": 223.85
+  },
+  {
+   "id": "L34",
+   "speaker": "Josh",
+   "start": 224.27,
+   "end": 230.65
+  },
+  {
+   "id": "L35",
+   "speaker": "Ms. Okafor",
+   "start": 231.07,
+   "end": 238.52
+  },
+  {
+   "id": "L36",
+   "speaker": "Josh",
+   "start": 238.94,
+   "end": 243.06
+  },
+  {
+   "id": "L37",
+   "speaker": "Ms. Okafor",
+   "start": 243.48,
+   "end": 256.28
+  },
+  {
+   "id": "L38",
+   "speaker": "Josh",
+   "start": 256.7,
+   "end": 258.99
+  },
+  {
+   "id": "L39",
+   "speaker": "Ms. Okafor",
+   "start": 259.61,
+   "end": 273.92
+  },
+  {
+   "id": "L40",
+   "speaker": "Josh",
+   "start": 274.34,
+   "end": 281.02
+  },
+  {
+   "id": "L41",
+   "speaker": "Mei",
+   "start": 281.44,
+   "end": 283.41
+  },
+  {
+   "id": "L42",
+   "speaker": "Josh",
+   "start": 283.71,
+   "end": 285.04
+  },
+  {
+   "id": "L43",
+   "speaker": "Ms. Okafor",
+   "start": 285.34,
+   "end": 288.81
+  },
+  {
+   "id": "L44",
+   "speaker": "Josh",
+   "start": 289.43,
+   "end": 308.9
+  },
+  {
+   "id": "L45",
+   "speaker": "Ms. Okafor",
+   "start": 309.32,
+   "end": 320.99
+  },
+  {
+   "id": "L46",
+   "speaker": "Josh",
+   "start": 321.41,
+   "end": 326.42
+  },
+  {
+   "id": "L47",
+   "speaker": "Mei",
+   "start": 326.84,
+   "end": 334.02
+  },
+  {
+   "id": "L48",
+   "speaker": "Josh",
+   "start": 334.44,
+   "end": 343.0
+  },
+  {
+   "id": "L49",
+   "speaker": "Ms. Okafor",
+   "start": 343.42,
+   "end": 346.94
+  }
+ ]
+}
